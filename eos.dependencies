@@ -1,0 +1,22 @@
+[
+ {
+   "repository":  "device_qcom_common",
+   "target_path": "device/qcom/common"
+ },
+ {
+   "remote":      "github",
+   "repository":  "shahan-mik3/android_kernel_xiaomi_cancro",
+   "target_path": "kernel/xiaomi/cancro",
+   "revision":    "cm-12.1"
+ },
+ {
+   "repository":  "hardware_qcom_fm",
+   "target_path": "hardware/qcom/fm"
+ },
+ {
+   "remote":       "github",
+   "repository":   "shahan-mik3/proprietary_vendor_xiaomi",
+   "target_path":  "vendor/xiaomi/cancro",
+   "revision":     "cm-12.1"
+ }
+]
