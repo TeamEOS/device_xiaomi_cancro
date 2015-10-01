@@ -16,7 +16,7 @@
  {
    "remote":       "github",
    "repository":   "shahan-mik3/proprietary_vendor_xiaomi",
-   "target_path":  "vendor/xiaomi/cancro",
+   "target_path":  "vendor/xiaomi",
    "revision":     "cm-12.1"
  }
 ]
